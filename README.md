@@ -7,6 +7,7 @@ A Series of Python Modules for Interacting with the Shodan API
 This package provides a collection of Python modules designed to interact with the Shodan API. It simplifies the process of querying Shodan for various information, such as IP addresses, hostnames, ports, and more.
 
 [Get the Module on PyPi](https://pypi.org/project/shodanpy-simeononsecurity/)
+
 [Learn More About the Modules](https://simeononsecurity.ch/github/shodanpy)
 
 ### Alternative Versions
