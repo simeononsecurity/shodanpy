@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "shodanpy_simeononsecurity"
+version = "0.0.2"
+authors = [
+  { name="SimeonOnSecurity", email="contact@simeononsecurity.ch" },
+]
+description = "A Series of Python Modules for Interacting with the Shodan API"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/simeononsecurity/shodanpy"
+"Bug Tracker" = "https://github.com/simeononsecurity/shodanpy/issues"
