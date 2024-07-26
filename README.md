@@ -1,5 +1,7 @@
 # shodanpy_simeononsecurity
 
+ [![Sponsor](https://img.shields.io/badge/Sponsor-Click%20Here-ff69b4)](https://github.com/sponsors/simeononsecurity) 
+
 A Series of Python Modules for Interacting with the Shodan API
 
 ## About
